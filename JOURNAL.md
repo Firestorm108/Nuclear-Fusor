@@ -70,6 +70,6 @@ This puts the most expensive part of the project (the vacuum system) at a total 
 
 Since I'll be using a custom flyback transformer and voltage mutliplier as the high voltage power source, I need a ZVS (zero volt switching) driver. I created the schematic, and I intend to wind the inductors myself to save money. I will need to design the pcb carefully and add good heatsinks but it should work well.
 
-![CleanShot 2025-10-11 at 10.04.31@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e4910b605393052b51a30fb143420fbb1a5231b0/CleanShot%202025-10-11%20at%2010.04.31%402x.png)
+![CleanShot 2025-10-11 at 10.06.22@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e3b1c37142b020712ccd8185b1913985f8d47614/CleanShot%202025-10-11%20at%2010.06.22%402x.png)
   
 
