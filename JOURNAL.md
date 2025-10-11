@@ -66,10 +66,17 @@ This puts the most expensive part of the project (the vacuum system) at a total 
 ![images (1).jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee66d72695e90e6de1a46604ea5847c1b8d4ebd4/images%20(1).jpeg)
   
 
-## 10/11/2025 10 AM - Creating the ZVS Driver  
+## 10/11/2025 10:06 AM - Creating the ZVS Driver  
 
 Since I'll be using a custom flyback transformer and voltage mutliplier as the high voltage power source, I need a ZVS (zero volt switching) driver. I created the schematic, and I intend to wind the inductors myself to save money. I will need to design the pcb carefully and add good heatsinks but it should work well.
 
 ![CleanShot 2025-10-11 at 10.06.22@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e3b1c37142b020712ccd8185b1913985f8d47614/CleanShot%202025-10-11%20at%2010.06.22%402x.png)
+  
+
+## 10/11/2025 10:56 AM - Finished making the ZVS driver PCB (routing)  
+
+I routed the components with some high current traces, added mounting holes, plates, all that. I still need to locate the parts on aliexpress and find a good toroid core and wire since I'll be winding those myself. I also need good heatsinks and cooling due to the high amount of current which will take some time as well.
+
+![CleanShot 2025-10-11 at 10.55.20@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0NywicHVyIjoiYmxvYl9pZCJ9fQ==--b1a2d48fc23adb3837a9d058a033c747b13e5f66/CleanShot%202025-10-11%20at%2010.55.20%402x.png)
   
 
