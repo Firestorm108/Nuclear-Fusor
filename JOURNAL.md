@@ -27,11 +27,11 @@ The goal of this project is not to make an expensive fusor; it's to find alterna
 All of these parts can cost thousands of dollars, but I've found ways to get around this.
 For instance, a vacuum chamber with electrical feedthrough can cost around $100. I can create this myself using a glass jar, vacuum pump adapter, and a spot for electrical feedthrough to the anode.
 
-	The electrodes are generally pretty cheap. I should be able to use cheap tungsten wire for this. As for the high voltage power supply, a custom ZVS driver with a self-wound flyback transformer fed into a voltage multiplier should be able to create a high enough voltage for this. I will need to insulate accordingly with parafin wax.
+The electrodes are generally pretty cheap. I should be able to use cheap tungsten wire for this. As for the high voltage power supply, a custom ZVS driver with a self-wound flyback transformer fed into a voltage multiplier should be able to create a high enough voltage for this. I will need to insulate accordingly with parafin wax.
 
-	The vacuum pump system is the main part that cannot be DIY'd. The high vacuum needed is not possible to make custom so I must budget for that. I need a 2 stage rotary pump which can cost ~$100, but I may be able to make some tweaks to use a single stage pump which can cost ~$50.
+The vacuum pump system is the main part that cannot be DIY'd. The high vacuum needed is not possible to make custom so I must budget for that. I need a 2 stage rotary pump which can cost ~$100, but I may be able to make some tweaks to use a single stage pump which can cost ~$50.
 
-	For control, power, monitoring, and cooling, I can use standard components. Switches, knobs, buttons, transformers, regular power supplies, LCD screens, fans, and standard microcontrollers should be able to cut it. I will need to use a cheap geiger counter to monitor ionizing radiation (x-rays) being emitted from the fusor. It shouldn't be too much of a worry but I do need to know how much it is producing for safety reasons. 
+For control, power, monitoring, and cooling, I can use standard components. Switches, knobs, buttons, transformers, regular power supplies, LCD screens, fans, and standard microcontrollers should be able to cut it. I will need to use a cheap geiger counter to monitor ionizing radiation (x-rays) being emitted from the fusor. It shouldn't be too much of a worry but I do need to know how much it is producing for safety reasons. 
 
 ![unnamed.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--28c57b5cf0f6b9e5dc5179770009739f5a055a04/unnamed.jpg)
 
