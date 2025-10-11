@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Nuclear Fusor**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/415).
 
 
-## 10/11/2025 - Research and Making it Low-Cost  
+## 10/11/2025 8 AM - Research and Making it Low-Cost  
 
 The goal of this project is not to make an expensive fusor; it's to find alternative ways to achieve fusion using techniques like 3d printing and making a lot of the parts custom. The main parts of a fusor include:
 
@@ -36,5 +36,31 @@ For control, power, monitoring, and cooling, I can use standard components. Swit
 ![unnamed.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--28c57b5cf0f6b9e5dc5179770009739f5a055a04/unnamed.jpg)
 
 
+  
+
+## 10/11/2025 9 AM - Vacuum Chamber + Pump  
+
+I will use a glass dome as the vacuum chamber. This should hold up well.
+https://www.amazon.com/ZEERSHEE-Display-Cloche-Wooden-Decoration/dp/B0DMVLJSPG/ ($15)
+
+It is quite cheap. However, it uses a wooden base which cannot hold a vacuum. I'll need to use my school's CNC router (or the one i'm working on if i finish it in time) to mill a custom base out of aluminum. 
+
+https://www.amazon.com/uxcell-Aluminum-Thickness-Square-Industrial/dp/B0D9S1TMGS/ ($13)
+
+Then the vacuum pump adapter https://www.amazon.com/Aupoko-Coupler-Adapter-Connector-Manifold/dp/B07T1QZ1NG/ $10
+
+And finally the pressure gauge (https://www.amazon.com/Silicone-Pressure-Stainless-Conditioning-Manifolds/dp/B0BCYMT1RT/) $10
+
+This puts the entire chamber at a price of ~$48 which is great considering all the features it has.
+
+As for the vacuum pump and hose, I'll be going with a single stage vacuum pump. Now, it doesn't make high enough of a vacuum so I'll be compensating with a higher voltage applied. It is luckily a lot cheaper to create a higher voltage power supply than a higher vacuum.
+
+This single stage vacuum pump is the cheapest available. (https://www.amazon.com/VIVOHOME-Single-Rotary-Vacuum-Bottle/dp/B07RGQ786R) ($60)
+
+Hose (https://www.amazon.com/Ez-Flo-98617-Clear-Vinyl-Tubing/dp/B07PY4KM8C/) - $6
+
+This puts the most expensive part of the project (the vacuum system) at a total cost of $114. Over the course of the design process I hopefully can reduce this slightly but I don't think I can get it much lower than this.
+
+![images (1).jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee66d72695e90e6de1a46604ea5847c1b8d4ebd4/images%20(1).jpeg)
   
 
