@@ -110,3 +110,15 @@ That means that I should only need a few stages for the voltage mutliplier to ge
 ![Flyback_transformer_arc.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7c8b859325bd68cb67fb703116a08a9b79ba6c4b/Flyback_transformer_arc.jpg)
   
 
+## 10/11/2025 1 PM - Designed the flyback transformer  
+
+I designed the flyback transformer in Fusion 360. Last time, I didn't add slits for the copper wire to be fed through so I fixed that this time around. I also added large tolerances since the core can have a 0.5mm offset. However, I might have to use insulation. I'm not sure what would be good, but currently I'm thinking to use resin or just a bit of tape. 
+
+Here are the parts I'll need:
+Ferrite Core (https://www.amazon.com/5pairs-UY1658-Transformer-ferrite-Material/dp/B0146OG8VK/)
+36AWG Magnet Wire (https://www.amazon.com/CMS-MAGNETICS-Enameled-Transformer-Inductor/dp/B0CHN8T5M6)
+16AWG Silicone Wire (https://www.amazon.com/Voltage-Automotive-Primary-Security-Electrical/dp/B0CZ73SQP8)
+
+ ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--3793157b21981d78a8447b9b61ef7b06f9d3558c/image.png)
+  
+
