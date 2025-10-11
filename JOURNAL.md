@@ -80,3 +80,19 @@ I routed the components with some high current traces, added mounting holes, pla
 ![CleanShot 2025-10-11 at 10.55.20@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0NywicHVyIjoiYmxvYl9pZCJ9fQ==--b1a2d48fc23adb3837a9d058a033c747b13e5f66/CleanShot%202025-10-11%20at%2010.55.20%402x.png)
   
 
+## 10/11/2025 11 AM - Found parts for the (now finished) ZVS driver   
+
+470ohm Resistors - $2 (https://www.aliexpress.us/item/3256802900888178.html)
+10kohm Resistors - $2 (https://www.aliexpress.us/item/3256802900888178.html)
+12V Zener Diodes - $2 (https://www.aliexpress.us/item/3256805254594247.html)
+250V 0.68uF Film Capacitor - $4 (https://www.aliexpress.us/item/3256801112042944.html)
+IRFP250 MOSFETs - $10 (https://www.amazon.com/ALLECIN-IRFP250N-Transistors-IRFP250NPBF-Transistor/dp/B0CBKD6J2G/)
+Small Toroid Ferrite Cores - $7 (https://www.amazon.com/10-FT50-43-Ferrite-Toroid-Core/dp/B0178IA61Y/)
+Magnet Wire - $12 (https://www.amazon.com/BNTECHGO-AWG-Magnet-Wire-Transformers/dp/B07GBM6Y4Z)
+Heatsinks - $4 (https://www.aliexpress.us/item/3256805673141783.html)
+
+That should be it!
+
+![images (2).jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a3c200ee739a85444be65d868c31a045c032a04c/images%20(2).jpeg)
+  
+
