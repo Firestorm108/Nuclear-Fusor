@@ -59,7 +59,9 @@ This single stage vacuum pump is the cheapest available. (https://www.amazon.com
 
 Hose (https://www.amazon.com/Ez-Flo-98617-Clear-Vinyl-Tubing/dp/B07PY4KM8C/) - $6
 
-This puts the most expensive part of the project (the vacuum system) at a total cost of $114. Over the course of the design process I hopefully can reduce this slightly but I don't think I can get it much lower than this.
+JB Weld for sealing (https://www.amazon.com/J-B-Weld-8276-KwikWeld-Reinforced/dp/B0006O1ICY/) - $6
+
+This puts the most expensive part of the project (the vacuum system) at a total cost of $120. Over the course of the design process I hopefully can reduce this slightly but I don't think I can get it much lower than this.
 
 ![images (1).jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee66d72695e90e6de1a46604ea5847c1b8d4ebd4/images%20(1).jpeg)
   
