@@ -96,3 +96,17 @@ That should be it!
 ![images (2).jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a3c200ee739a85444be65d868c31a045c032a04c/images%20(2).jpeg)
   
 
+## 10/11/2025 12 PM - Researching the flyback transformer  
+
+The flyback transformer runs at a very high frequency (supplied by the ZVS driver), to output thousands of volts. I'm not super picky about the output since I'll be designing a voltage multiplier soon after to bring it up to a better standard for the fusor. I'll be using a UY1658 ferrite core and 3d printing the brackets on both sides to hold the windings.
+
+I've calculated that:
+4 turns on the primary
+2000 turns on the secondary
+
+The output should be 8-10kV.
+
+That means that I should only need a few stages for the voltage mutliplier to get it up higher.
+![Flyback_transformer_arc.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7c8b859325bd68cb67fb703116a08a9b79ba6c4b/Flyback_transformer_arc.jpg)
+  
+
