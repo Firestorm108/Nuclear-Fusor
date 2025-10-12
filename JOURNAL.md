@@ -131,3 +131,24 @@ And these capacitors (20kV 10nF): https://www.aliexpress.us/item/325680687406630
 ![68747470733a2f2f626c75657072696e742e6861636b636c75622e636f6d2f757365722d6174746163686d656e74732f626c6f62732f72656469726563742f65794a66636d467062484d694f6e73695a474630595349364d6a597a4c434a77645849694f694a696247396958.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--37d100d755bd8cbd9ce2767e17deab1e959bacca/68747470733a2f2f626c75657072696e742e6861636b636c75622e636f6d2f757365722d6174746163686d656e74732f626c6f62732f72656469726563742f65794a66636d467062484d694f6e73695a474630595349364d6a597a4c434a77645849694f694a696247396958.png)
   
 
+## 10/12/2025 - Brainstorming Control and Power System  
+
+There are definitely a few things we need to be able to control and the power system needs some design choices to be made.
+
+Here's a list:
+-Turning the machine off and on
+-Overcurrent Protection
+-Integrated power supply
+-Radiation levels
+-Voltage monitoring
+-Cooling
+-Switches to control vacuum, plasma, etc.
+-Emergency precautions and safety
+
+To turn it off and on and with overcurrent protection, we can use a fused inlet integrated into the build. This means that we will need to use an integrated power supply. I'll be using a cheap, 12V 10A switch mode power supply to keep efficiency high and as to not destroy the fragile electronics inside. To monitor radiation levels, I'll be using a geiger counter. As for voltage monitoring, a kV analog meter will be integrated. It should show somewhere between 40kV and 80kV. Cooling should just be a small fan or two for the ZVS driver due to the high power switching it does. Toggle switches will be used to control the vacuum, plasma, and operation.
+I will also integrate an e-stop to quickly shutoff the entire machine if anything goes wrong.
+
+![unnamed (1).jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d510ed8db5c8c951abfc4d42e2824bff9fa5308e/unnamed%20(1).jpg)
+
+  
+
