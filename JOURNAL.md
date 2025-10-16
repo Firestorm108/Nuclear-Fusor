@@ -152,3 +152,10 @@ I will also integrate an e-stop to quickly shutoff the entire machine if anythin
 
   
 
+## 10/15/2025 - Did the bulk of the CAD  
+
+I designed the casing and setup for the machine. Implemented the ZVS driver, transformer, power, and voltage multiplier on the inside, with some switches for control and the vacuum chamber up on top. I will probably need to put official stickers on warnings of high voltage and ionizing radiation but for now I debossed some text in the front. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bb2cf5039073f76ed6e80a658d443a362e5ed709/image.png)
+  
+
