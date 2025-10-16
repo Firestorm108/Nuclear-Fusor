@@ -159,3 +159,8 @@ I designed the casing and setup for the machine. Implemented the ZVS driver, tra
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bb2cf5039073f76ed6e80a658d443a362e5ed709/image.png)
   
 
+## 10/16/2025 - Finished the full design  
+
+Polished up the CAD and finished adding all the mounting holes etc. I also got a really nice render and polished up the design overall; the full project should be ready to ship at this point! I just need to make the BOM and upload the files to the repo.![Assembly_2025-Oct-16_11-51-18PM-000_CustomizedView18007841451.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--ade4e4f94aa9e99e0e5bb11a4229a13177d8fd7b/Assembly_2025-Oct-16_11-51-18PM-000_CustomizedView18007841451.png)
+  
+
