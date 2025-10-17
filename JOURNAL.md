@@ -159,8 +159,15 @@ I designed the casing and setup for the machine. Implemented the ZVS driver, tra
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bb2cf5039073f76ed6e80a658d443a362e5ed709/image.png)
   
 
-## 10/16/2025 - Finished the full design  
+## 10/16/2025 4 PM - Finished the full design  
 
 Polished up the CAD and finished adding all the mounting holes etc. I also got a really nice render and polished up the design overall; the full project should be ready to ship at this point! I just need to make the BOM and upload the files to the repo.![Assembly_2025-Oct-16_11-51-18PM-000_CustomizedView18007841451.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--ade4e4f94aa9e99e0e5bb11a4229a13177d8fd7b/Assembly_2025-Oct-16_11-51-18PM-000_CustomizedView18007841451.png)
+  
+
+## 10/16/2025 5 PM - Created BOM + Uploaded files  
+
+Uploaded all the PCB and .step files to github, and created a BOM (this time in google sheets so it's an actual spreadsheet format) and converted to .csv. I also added quite a bit into the readme. The project is now ready to be shipped and everything is in order.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--dc46daebccb3489c91384e6e8f011ab584148483/image.png)
   
 
