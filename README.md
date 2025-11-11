@@ -6,3 +6,4 @@ to occur. The limiting factor is the vacuum setup because it is much more expens
 a higher vacuum is just pure cost. This design will just be using a standard single stage mechanical pump to make a low vacuum.
 
 <img width="226" height="223" alt="image" src="https://github.com/user-attachments/assets/43980a41-daf6-47a8-913e-931fa42db7d8" />
+![Uploading image.png…]()
